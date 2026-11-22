@@ -1,0 +1,77 @@
+Seed Paper,Snowballing,Paper ID,Year,Author,Title
+P001,Backword,P107,2025,"Nilay Yorgancılar Akgül, Tuğba Taşkaya Temizel,  Özden Özcan Top, Pelin Dayan Akman",Aligning Data Debt with AI-Integrated Software Project Lifecycle Processes: A Standard-Based Mapping Approach
+,,P108,2025,"Gabriele Pandini ,  Antonio Martini , Adela Nedisan Videsjorden ,Francesca Arcelli Fontana",An exploratory study on architectural smell refactoring using Large Languages Models
+,,P109,2021,"Justus Bogner, Roberto Verdecchia, Ilias Gerostathopoulos",Characterizing Technical Debt and Antipatterns in AI-Based Systems: A Systematic Mapping Study
+,,P110,2024,"Ahmed Menshawy, Zeeshan Nawaz, Mahmoud Fahmy",Navigating Challenges and Technical Debt in Large Language Models Deployment
+,,P111,2025,"Ahmed Aljohani , Hyunsook Do U",PromptDebt: A Comprehensive Study of Technical Debt Across LLM Projects
+,,P112,2026,"Sergio Moreschini, Elvira-Maria Arvanitou, Elisavet-Persefoni Kanidou, Nikolaos Nikolaidis, Ruoyu Su, Apostolos Ampatzoglou, Alexander Chatzigeorgiou, Valentina Lenarduzzi",The Evolution of Technical Debt from DevOps to Generative AI: A multivocal literature review
+,,P113,2022,"David OBrien, Sumon Biswas, Sayem Imtiaz, Rabe Abdalkareem, Emad Shihab, Hridesh Rajan",23 Shades of Self-Admitted Technical Debt: An Empirical Study on Machine Learning Software
+,Forward,N/A,N/A,N/A,N/A
+P002,Backword,P114,2020,J. Wang et al.,Exploring how deprecated Python library APIs are (not) handled
+,Forward,P115,2026,Wang et al.,"Correct Code, Vulnerable Dependencies: A Large Scale Measurement Study of LLM-Specified Library Versions"
+P003,Backword,P116,2021,"Yiming Tang, Raffi Khatchadouriant, Mehdi Bagherzadeh , Rhia Singh, Ajani Stewart, Anita Raja",An Empirical Study of Refactorings and Technical Debt in Machine Learning Systems
+,Forward,P117,2024,Castaño et al,Analyzing the Evolution and Maintenance of ML Models on Hugging Face
+,,P118,2024,Sayem Mohammad Imtiaz,Characterizing the changes in the evolution of deep learning models
+P004,Backword,P119,2025,Cheng et al.,CODEMENV: Benchmarking large language models on code migration
+,Forward,P120,2026,Ashik et al.,When LLMs Lag Behind: Knowledge Conflicts from Evolving APIs in Code Generation
+P023,Backword,N/A,N/A,N/A,N/A
+,Forward ,N/A,N/A,N/A,N/A
+P025,Backword,N/A,N/A,N/A,N/A
+,Forward,P121,2026,"Jin Liu, Yanzhong He, Guancheng Lin, Xiao Liu, Jacky Wai Keung, Xiao Yu, Xiaoxue Ma",Machine Unlearning for Deprecated API Knowledge in Code LLMs (MUDAPIBench)
+P043,Backword ,N/A,N/A,N/A,N/A
+,Forward ,N/A,N/A,N/A,N/A
+P064,Backword,P122,2012,"J. David Morgenthaler, Misha Gridnev, Raluca Sauciuc, and Sanjay Bhansali",Searching for Build Debt: Experiences Managing Technical Debt at Google
+,Forward,N/A,N/A,N/A,N/A
+P099,Backword,P123,2024,"Gilberto Recupito , Fabiano Pecorelli , Gemma Catolino , Valentina Lenarduzzi , Davide Taibi , Dario Di Nucci , Fabio Palomba","Technical debt in AI-enabled systems: On the prevalence, severity, impact, and management strategies for code and architecture"
+,,P124,2019,MOHANNAD ALAHDAB,Empirical Analysis of Hidden Technical Debt Patterns in Machine Learning Software
+,Forward,N/A,N/A,N/A,N/A
+P102,Backword,N/A,N/A,N/A,N/A
+,Forward,N/A,N/A,N/A,N/A
+P104,Backword,N/A,N/A,N/A,N/A
+,Forward,N/A,N/A,N/A,N/A
+Round 2,,,,,
+P107,Backword,P125,2024,Moreschini et al.,Towards a Technical Debt for AI-based Recommender System
+,Forward,N/A,N/A,N/A,N/A
+P108,Backword,P126,2021,Sas et al.,The perception of architectural smells in industrial practice
+,,P127,2023,"Darius Sas, Paris Avgeriou",An architectural technical debt index based on machine learning and architectural smells
+,Forward,N/A,N/A,N/A,N/A
+P109,Backword,N/A,N/A,N/A,N/A
+,Forward,N/A,N/A,N/A,N/A
+P110,Backword,N/A,N/A,N/A,N/A
+,,N/A,N/A,N/A,N/A
+,Forward,N/A,N/A,N/A,N/A
+P111,Backword,N/A,N/A,N/A,N/A
+,Forward,N/A,N/A,N/A,N/A
+P112,Backword,N/A,N/A,N/A,N/A
+,Forward,N/A,N/A,N/A,N/A
+P113,Backword,N/A,N/A,N/A,N/A
+,Forward,N/A,N/A,N/A,N/A
+P114,Backword,N/A,N/A,N/A,N/A
+,Forward,N/A,N/A,N/A,N/A
+P115,Backword,N/A,N/A,N/A,N/A
+,Forward,N/A,N/A,N/A,N/A
+P116,Backword,N/A,N/A,N/A,N/A
+,Forward,N/A,N/A,N/A,N/A
+P117,Backword,N/A,N/A,N/A,N/A
+,Forward,N/A,N/A,N/A,N/A
+P118,Backword,N/A,N/A,N/A,N/A
+,Forward,N/A,N/A,N/A,N/A
+P119,Backword,N/A,N/A,N/A,N/A
+,Forward,N/A,N/A,N/A,N/A
+P120,Backword,N/A,N/A,N/A,N/A
+,Forward,N/A,N/A,N/A,N/A
+P121,Backword,N/A,N/A,N/A,N/A
+,Forward,N/A,N/A,N/A,N/A
+P122,Backword,N/A,N/A,N/A,N/A
+,Forward,N/A,N/A,N/A,N/A
+P123,Backword,N/A,N/A,N/A,N/A
+,Forward,N/A,N/A,N/A,N/A
+P124,Backword,N/A,N/A,N/A,N/A
+,Forward,N/A,N/A,N/A,N/A
+Round 3,,,,,
+P125,Backword,N/A,N/A,N/A,N/A
+,Forward,N/A,N/A,N/A,N/A
+P126,Backword,N/A,N/A,N/A,N/A
+,Forward,N/A,N/A,N/A,N/A
+P127,Backword,N/A,N/A,N/A,N/A
+,Forward,N/A,N/A,N/A,N/A
