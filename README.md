@@ -19,7 +19,6 @@ This repository contains the complete replication package for the systematic lit
 ```text
 ├── Activity Sheet Search, Screen and Snowball.docx   # Database search strings, search log, and SLR protocol
 ├── calculate\\\_kappa.py                                # Python script to compute Observed Agreement \\\& Cohen's Kappa
-├── calculate\\\_kappa.ipynb                             # Interactive Jupyter Notebook with data tables and calculations
 ├── Test - data Extraction.csv                        # Extracted data for 44 primary studies across taxonomy facets
 ├── Test - Partner 1.csv                              # Screening decisions recorded by Reviewer 1 (Eesha Naveed)
 ├── Test - Partner 2.csv                              # Screening decisions recorded by Reviewer 2 (Hafsa Shamriz)
@@ -91,7 +90,6 @@ python3 calculate\\\_kappa.py
 |-|-|
 |`Activity Sheet Search, Screen and Snowball.docx`|Full search protocol, Boolean strings, and screening log details.|
 |`calculate\\\_kappa.py`|Python script calculating Observed Agreement (95.28%) and Cohen's Kappa ($\\kappa = 0.8633$).|
-|`calculate\\\_kappa.ipynb`|Interactive Jupyter Notebook with pandas tables and agreement calculations.|
 |`Test - data Extraction.csv`|Structured data extraction across all 44 primary studies.|
 |`Test - Partner 1.csv`|Initial screening decisions by Reviewer 1 (Eesha Naveed).|
 |`Test - Partner 2.csv`|Initial screening decisions by Reviewer 2 (Hafsa Shamriz).|
