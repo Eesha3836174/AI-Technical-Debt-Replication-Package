@@ -19,11 +19,11 @@ This repository contains the complete replication package for the systematic lit
 ```text
 ├── Activity Sheet Search, Screen and Snowball.docx   # Database search strings, search log, and SLR protocol
 ├── calculate\\\_kappa.py                                # Python script to compute Observed Agreement \\\& Cohen's Kappa
-├── Test - data Extraction.csv                        # Extracted data for 44 primary studies across taxonomy facets
+├── Test - data Extraction.csv                        # Extracted data for 33 primary studies across taxonomy facets
 ├── Test - Partner 1.csv                              # Screening decisions recorded by Reviewer 1 (Eesha Naveed)
 ├── Test - Partner 2.csv                              # Screening decisions recorded by Reviewer 2 (Hafsa Shamriz)
 ├── Test - Screening Sheet.csv                        # 106 unique papers screened independently by both reviewers
-├── Test - SnowBalling.csv                            # Tracking 12 seed papers + 32 snowballing \\\& expansion papers
+├── Test - SnowBalling.csv                            # Tracking 12 seed papers + 21 snowballing 
 └── README.md                                         # Replication package documentation
 ```
 
