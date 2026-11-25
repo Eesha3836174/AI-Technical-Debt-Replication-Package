@@ -37,16 +37,16 @@ This repository contains the complete replication package for the systematic lit
 * **ACM Digital Library:** 3 records
 * **Google Scholar:** 93 records
 * **arXiv:** 3 records
-* **Total Records Retrieved:** 116 records (106 unique records after 10 duplicates removed)
+* **Total Records Retrieved:** 106 records 
 
 ### PRISMA Selection Funnel
 
-1. **Initial Records:** 116
+1. **Initial Records:** 106
 2. **Unique Records (After Duplicates):** 106
 3. **Title \& Abstract Screening:** 23 candidate papers (83 excluded)
 4. **Full-Text Screening (Seed Set):** 12 seed papers (11 excluded)
-5. **Snowballing \& Expansion:** +32 papers (16 backward, 5 forward, 11 control expansion)
-6. **Final Primary Corpus:** **44 papers**
+5. **Snowballing \& Expansion:** +21 papers (16 backward, 5 forward)
+6. **Final Primary Corpus:** **33 papers**
 
 \---
 
